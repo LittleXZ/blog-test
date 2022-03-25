@@ -13,7 +13,10 @@
 3. rap
 4. 篮球
 
+第一行代码
 `hello world`
+
+调试
 ```javasrcipt
 var a =1
 console.log(a)
